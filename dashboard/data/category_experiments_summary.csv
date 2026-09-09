@@ -1,0 +1,6 @@
+Category,Count,Mean RMSLE Simple UV,Mean RMSLE Complex UV,Mean RMSLE Simple MV,Mean RMSLE Complex MV,Best Model per Category,Best Mean RMSLE,Characteristics
+Smooth,630,0.619234,0.522231,0.574307,0.556167,Complex UV (Global),0.522231,"Permintaan tinggi, variansi stabil, cocok untuk peramalan musiman berulang"
+Intermittent,541,0.628017,0.539746,0.540614,0.48981,Complex MV (Global),0.48981,"Banyak periode 0 transaksi, fitur eksogen (promosi & kalender) sangat membantu"
+Lumpy,323,0.828193,0.694386,0.646859,0.625449,Complex MV (Global),0.625449,"Paling sulit diprediksi, volume sporadis dengan lonjakan tak beraturan"
+Erratic,235,0.847608,0.783292,0.775228,0.832896,Simple MV (Global),0.775228,"Permintaan selalu ada tapi fluktuasi tajam, model sederhana lebih robust terhadap outlier"
+No Sales,53,0.068531,0.016997,0.014921,0.002126,Complex MV (Global),0.002126,"Hampir nol sepanjang tahun, model mendeteksi ketiadaan aktivitas dengan sempurna"

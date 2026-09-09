@@ -1,0 +1,22 @@
+# Datasets
+datasets/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# IDE and plans
+/implementation_plan*.md
+/pyrightconfig.json
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
