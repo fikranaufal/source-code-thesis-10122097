@@ -144,4 +144,4 @@ Jika ingin menjalankan notebook pelatihan dari awal:
 
 - **Peneliti**: Fikran Naufal
 - **NIM**: 10122097
-- **Institusi**: Program Studi Informatika / Ilmu Komputer
+- **Institusi**: Program Studi Matematika Institut Teknologi Bandung
